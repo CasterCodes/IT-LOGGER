@@ -1,0 +1,23 @@
+{
+  "logs": [
+    {
+      "message": "Hard disk crashed on workstation 23848",
+      "attention": true,
+      "tech": "Jane Portvae",
+      "date": 1611123325736,
+      "id": 1
+    }
+  ],
+  "techs": [
+    {
+      "firstName": "Priscilla",
+      "lastName": "Marembo",
+      "id": 2
+    },
+    {
+      "firstName": "Kevin ",
+      "lastName": "Caster",
+      "id": 3
+    }
+  ]
+}
